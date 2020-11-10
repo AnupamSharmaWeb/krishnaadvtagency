@@ -227,7 +227,9 @@ h6 {
 }
 
 #intro .intro-info .btn-services {
-  border: 2px solid #fff;
+  
+   
+    color: white;
 }
 
 #intro .intro-info .btn-services:hover {
